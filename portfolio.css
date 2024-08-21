@@ -92,7 +92,7 @@ body {
     height:500px;
 }
 .main{
-    background-image:url(background\ 1.jpeg);
+    background-image:url(images/background\ 1.jpeg);
     background-repeat:no-repeat;
  background-position:fixed;
     background-size: cover;
